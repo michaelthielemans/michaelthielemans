@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @michaelthielemans
-- 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Powershell
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me by mail
+- 👀 I’m interested in Bash, Python, Containertech, Kubernetes,Podman
+- 🌱 I’m currently learning Python, Kubernetes
 
 <!---
 michaelthielemans/michaelthielemans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
